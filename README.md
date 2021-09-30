@@ -7,7 +7,7 @@ This project is a part of Codecademy – Data scientist career path. Dating appl
 - OKCupid-date-a-scientist.ipynb - a notebook with the code to explore the data and train some machine learning models  
 
 # Summary
-To predict a sign, this project used four machine learning models for multi-class classification: K-Nearest Neighbors, Random Forest and Support Vector Machine models, and MultinomialNB. The models' accuracy is about 30%, xx%, 20% and 30%, respectively on training data. Unfortunately, after cross-validation, the accuracy of these four models are very low at about 3-8%. There might be a lot of work to go on in order to create better models, for example, discussing data features that are better for sign prediction with astrologers! :grinning: 
+To predict a sign, this project used four machine learning models for multi-class classification: K-Nearest Neighbors, Random Forest and Support Vector Machine models, and MultinomialNB. The models' accuracy is about 30%, 87%, 20% and 30%, respectively on training data. Unfortunately, after cross-validation, the accuracy of these four models are very low at about 3-8%. There might be a lot of work to go on in order to create better models, for example, discussing data features that are better for sign prediction with astrologers! :grinning: 
 
 # Licenses / Acknowledgements / References
 The file 'profile.csv' which is used as the dataset in this project is provided by Codecademy.
